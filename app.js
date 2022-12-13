@@ -1,5 +1,4 @@
-function a() {
+function Log() {
   return "b";
 }
-a();
-console.log(a());
+console.log(Log());
